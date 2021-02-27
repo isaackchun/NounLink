@@ -1,10 +1,10 @@
 # NounLink
 English adaptation of ggeut-mar-it-gi(끝말잇기) and shiritori(しりとり)
 
-#to start the game
+to start the game
 !start
 
-#to view the list of nouns that were used
+to view the list of nouns that were used
 !used
 
 
