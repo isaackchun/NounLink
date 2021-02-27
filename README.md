@@ -10,4 +10,4 @@ to view the list of nouns that were used
 !used
 
 
-This bot is currently not finished and have more features to be added
+This bot is not finished yet
