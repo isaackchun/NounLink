@@ -9,5 +9,3 @@ to view the list of nouns that were used
 
 !used
 
-
-This bot is not completed yet
